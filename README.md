@@ -1,6 +1,8 @@
-# Classical sort algorithms
+# ScalaSort
 
-Implement the following sort algorithms in Scala
+Implement classical sort algorithms in Scala
+
+Based on the descriptions and pseudocodes from their Wikipedia articles.
 
 - heapsort
 - qsort
@@ -8,5 +10,3 @@ Implement the following sort algorithms in Scala
 - insertionsort
 - selectionsort
 - mergesort
-
-Based on the descriptions and pseudocodes from their Wikipedia articles.
